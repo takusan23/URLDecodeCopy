@@ -4,9 +4,7 @@
     "manifest_version": 3,
     "description": "URLエンコードされたURLをURLデコードしてコピーします。",
     "permissions": [
-        "activeTab",
-        "contextMenus",
-        "clipboardWrite"
+        "contextMenus"
     ],
     "host_permissions": [
         "http://*/*",
